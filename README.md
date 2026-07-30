@@ -4,10 +4,10 @@
 
 <div align="center">
 
- 
+  ![Profile Views](https://komarev.com/ghpvc/?username=Shabber10&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)
   [![Total PDFs](https://img.shields.io/badge/Total%20PDFs-2,800+-6e40c9?style=for-the-badge)](https://github.com/Shabber10/ALL-PYQ-Papers)
   [![Repo Size](https://img.shields.io/badge/Repo%20Size-8.4%20GB-6e40c9?style=for-the-badge)](https://github.com/Shabber10/ALL-PYQ-Papers)
- 
+  [![GitHub followers](https://img.shields.io/github/followers/Shabber10?style=for-the-badge&color=6e40c9&labelColor=0D1117&label=Followers)](https://github.com/Shabber10?tab=followers)
 
 </div>
 
@@ -39,3 +39,15 @@ Click on any of the sections below to navigate directly to the folder on GitHub.
 
 ---
 
+### ⚖️ Disclaimer
+
+All question papers and resources hosted in this repository are the property of their respective boards and conducting authorities (e.g., CBSE, NTA, UPSC, state boards). These materials are collected from publicly available government websites and compiled here purely for educational, non-commercial purposes to aid students in their exam preparation. If any authority wishes to have their papers removed, please contact me.
+
+---
+
+### 📬 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shabber-hussain-0895711ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Shabber10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
