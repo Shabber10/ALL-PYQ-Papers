@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 <a href="https://p-y-q.netlify.app/">Click here to access the Web Portal</a> 🚀</h3>
+  <h3>🚀 <a href="https://pyqs-by-shabber.netlify.app/">Click here to access the Web Portal</a> 🚀</h3>
   <p>Search, filter, and access all 2,800+ previous year papers instantly online!</p>
 </div>
 
