@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge&logo=render)]([https://voiceweaver-v2.onrender.com](https://pyqs-by-shabber.netlify.app))  🚀</h3>
+  <h3>🚀https://pyqs-by-shabber.netlify.app🚀</h3>
   <p>Search, filter, and access all 2,800+ previous year papers instantly online!</p>
 </div>
 
